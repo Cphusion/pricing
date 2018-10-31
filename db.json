@@ -1,4 +1,5 @@
-[
+{
+  [
   {
     "id": 1,
     "event": "Beyonce and Jay-Z",
@@ -40,3 +41,4 @@
     "status": 1
   }
 ]
+}
