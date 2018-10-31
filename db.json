@@ -14,7 +14,7 @@
         "id": 2,
         "event": "Green Bay Packers vs. Chicago Bears",
         "venue": "Soldier Field",
-        "city": "Chicago",
+        "city": "New York",
         "state": "IL",
         "date": "Oct 27, 2018",
         "time": "1:05 pm",
@@ -38,6 +38,26 @@
         "state": "IL",
         "date": "Nov 19, 2018",
         "time": "1:05 pm",
+        "status": true
+      },
+      {
+        "id": 5,
+        "event": "Taylor Swift",
+        "venue": "Honda Center",
+        "city": "Anaheim",
+        "state": "CA",
+        "date": "Nov 30, 2018",
+        "time": "7:05 pm",
+        "status": true
+      },
+      {
+        "id": 6,
+        "event": "Taylor Swift",
+        "venue": "Hollywood",
+        "city": "Los Angeles",
+        "state": "CA",
+        "date": "Dec 5, 2018",
+        "time": "9:05 pm",
         "status": true
       }
   ]
